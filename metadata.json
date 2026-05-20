@@ -1,0 +1,6 @@
+{
+  "name": "VirusTotal Clone",
+  "description": "A high-fidelity interactive clone of the VirusTotal analyzer interface, supporting file uploads, real SHA-256 calculation, URL scanning, IP/domain search, and interactive security report dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
